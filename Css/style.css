@@ -13,6 +13,7 @@ body {
 @media (max-width: 540px) {
   .container {
     margin: 100px auto;
+    width: 400px;
   }
 }
 .form {
